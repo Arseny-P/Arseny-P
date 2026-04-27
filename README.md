@@ -6,7 +6,8 @@ I am a **Frontend Developer** and Computer Science student at SPbU. I love learn
 
 ### Tech Stack & Skills
 
-* **Languages:** TypeScript, JavaScript (ES6+)
-* **Library/Framework:** React (Zustand, React Query, React Router)
-* **Styles & UI:** Modern CSS, SASS/SCSS
-* **Environment:** Git, Vite, npm
+- **Languages:** JavaScript, TypeScript, C++, Python
+- **Frontend & Frameworks:** React, React Router, Redux Toolkit, Zustand, TanStack Query
+- **Web & Styling:** HTML5, CSS3 (BEM, Adaptive Layout), SASS/SCSS
+- **Networking & Tooling:** Axios, Fetch API, Webpack (basic config), Vite, npm
+- **Dev & Design:** Git, Figma
